@@ -1,10 +1,9 @@
 <html>
 <body>
 <head>
-        <!-- We had made changes to the css file -->
         <script type="text/javascript" src="javascript.js"></script>
         <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
- </head>
+</head>
 <h1>Having trouble with picking a study?</h1>
 <p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! <br> This site will help you find your study, based on your preferences. You can filter by location (by city or province), field of study and whether the study is with a selection or not.<br> Go try it out! </p>
 
