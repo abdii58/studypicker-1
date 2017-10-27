@@ -18,6 +18,5 @@ A project dedicated to the course Data and Knowledge.
 
 <a href="https://www.w3schools.com">This is a link</a>
 
-<img src="Studypicker.jpg" alt="Studypicker">
 </body>
 </html>
