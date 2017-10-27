@@ -23,20 +23,12 @@ A project dedicated to the course Data and Knowledge.
 <form>
   <pre>
 <input type="radio" name="Selection" value="Has no selection" checked> Without selection  <input type="radio" name="Selection" value="Has selection"> With selection 
-  </pre>
-</form>
 
-<form>
-  <pre>
 <input type="radio" name="field of study" value="Technical" checked> Technical  <input type="radio" name="field of study" value="Medicine"> Medicine
 <input type="radio" name="field of study" value="Business"> Business   <input type="radio" name="field of study" value="Communication" checked> Communication 
 <input type="radio" name="field of study" value="IT" checked> IT         <input type="radio" name="field of study" value="Law" checked> Law
 <input type="radio" name="field of study" value="Social" checked> Social     <input type="radio" name="field of study" value="Theology" checked> Theology
-  </pre>
-</form>
 
-<form>
-  <pre>
 <input type="checkbox" name="Province1" value="North Holland"> North Holland   <input type="checkbox" name="Province2" value="South Holland"> South Holland     <input type="checkbox" name="Province3" value="Groningen"> Groningen
 <input type="checkbox" name="Province4" value="Friesland"> Friesland       <input type="checkbox" name="Province5" value="Drenthe"> Drenthe           <input type="checkbox" name="Province6" value="Overijsel"> Overijsel
 <input type="checkbox" name="Province7" value="Flevoland"> Flevoland       <input type="checkbox" name="Province8" value="Gelderland"> Gelderland        <input type="checkbox" name="Province9" value="Utrecht"> Utrecht
