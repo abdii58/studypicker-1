@@ -7,7 +7,7 @@ A project dedicated to the course Data and Knowledge.
 <body>
 
 <h1>Having trouble with picking a study?</h1>
-<p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! <br> This site will help you find your study, based on your preferences. You can filter by location (by city or province), field of study and whether the study is with a selection or not. Go try for yourself! </p>
+<p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! <br> This site will help you find your study, based on your preferences. You can filter by location (by city or province), field of study and whether the study is with a selection or not. Go try it out! </p>
 
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
@@ -35,6 +35,11 @@ A project dedicated to the course Data and Knowledge.
 <input type="checkbox" name="Province7" value="Flevoland"> Flevoland       <input type="checkbox" name="Province8" value="Gelderland"> Gelderland        <input type="checkbox" name="Province9" value="Utrecht"> Utrecht
 <input type="checkbox" name="Province10" value="Zeeland"> Zeeland         <input type="checkbox" name="Province11" value="North Brabant"> North Brabant     <input type="checkbox" name="Province12" value="Limburg"> Limburg
 <strong> City </strong>
+<input type="checkbox" name="City1" value="Amsterdam"> Amsterdam   <input type="checkbox" name="City2" value="Delft"> Delft    <input type="checkbox" name="City3" value="Eindhoven"> Eindhoven
+<input type="checkbox" name="City4" value="Rotterdam"> Rotterdam       <input type="checkbox" name="City5" value="Groningen"> Groningen           <input type="checkbox" name="City6" value="The Hague"> The Hague
+<input type="checkbox" name="City7" value="Leiden"> Leiden      <input type="checkbox" name="City8" value="Maastricht"> Maastricht       <input type="checkbox" name="City9" value="Tilburg"> Tilburg
+<input type="checkbox" name="City10" value="Twente"> Twente         <input type="checkbox" name="City11" value="Utrecht"> Utrecht     <input type="checkbox" name="City" value="Wageningen"> Wageningen
+
   </pre>
 </form>
 
