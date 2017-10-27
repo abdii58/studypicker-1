@@ -31,6 +31,5 @@ A project dedicated to the course Data and Knowledge.
 
 <button type="button" onclick="alert('Hello World!')">Click Me!</button>
 
-
 </body>
 </html>
