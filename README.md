@@ -19,9 +19,10 @@ A project dedicated to the course Data and Knowledge.
 <a href="https://www.w3schools.com">This is a link</a>
 
 <form>
-  <input type="radio" name="field of study" value="Technical" checked> Technical <br>
-  <input type="radio" name="field of study" value="Medicine"> Medicine <br>
+  <pre>
+  <input type="radio" name="field of study" value="Technical" checked> Technical  <input type="radio" name="field of study" value="Medicine"> Medicine 
   <input type="radio" name="field of study" value="Business"> Business
+  </pre>
 </form>
 
 <form>
