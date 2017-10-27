@@ -38,5 +38,37 @@
 
 <button type="button" onclick="alert('Queried studies')">Show Results</button>
 
+<script>
+      var endpoint = "http://dbpedia.org/sparql";
+      var query = "select * {?s ?p ?o} limit 5" ;
+
+      // Define a callback function to receive the SPARQL JSON result.
+      function myCallback(str) {
+        // Convert result to JSON
+        var jsonObj = eval('(' + str + ')');
+
+        // Build up a table of results.
+        var result = " <table border='2' cellpadding='9'>" ;
+        for(var i = 0; i<  jsonObj.results.bindings.length; i++) {
+          result += " <tr> <td>" + jsonObj.results.bindings[i].s.value;
+          result += " </td><td>" + jsonObj.results.bindings[i].p.value;
+          result += " </td><td>" + jsonObj.results.bindings[i].o.value;
+          result += " </td></tr>"; 
+        } 
+        result += "</table>" ;
+        document.getElementById("results").innerHTML = result;
+     }
+      
+     // Make the query.
+     sparqlQueryJson(query, endpoint, myCallback, true);
+      
+    </script>
+    
+<div id="results">
+      It may take a few moments for the info to be displayed here...
+      <br/><br/>
+      Run me in Internet Explorer or I get Cross Domain HTTP Request errors!
+    </div>
+
 </body>
 </html>
