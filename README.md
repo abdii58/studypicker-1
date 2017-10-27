@@ -1,8 +1,3 @@
-# Studypicker
-A project dedicated to the course Data and Knowledge.
-
-
-
 <html>
 <body>
 
