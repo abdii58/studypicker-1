@@ -7,7 +7,7 @@ A project dedicated to the course Data and Knowledge.
 <body>
 
 <h1>Having trouble with picking a study?</h1>
-<p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! <br> This site will help you find your study, based on your preferences. You can filter by location (by city or province), field of study and whether the study is with a selection or not. Go try it out! </p>
+<p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! <br> This site will help you find your study, based on your preferences. You can filter by location (by city or province), field of study and whether the study is with a selection or not.<br> Go try it out! </p>
 
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
@@ -43,7 +43,7 @@ A project dedicated to the course Data and Knowledge.
   </pre>
 </form>
 
-<button type="button" onclick="alert('Queried studies')">Search Studies</button>
+<button type="button" onclick="alert('Queried studies')">Show Results</button>
 
 </body>
 </html>
