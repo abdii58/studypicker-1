@@ -1,8 +1,8 @@
-# studypicker
+# Studypicker
 A project dedicated to the course Data and Knowledge.
 
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -17,6 +17,14 @@ A project dedicated to the course Data and Knowledge.
 <p>This is another paragraph.</p>
 
 <a href="https://www.w3schools.com">This is a link</a>
+
+<h3>Please fill out the form </h3>
+
+<form>
+  <pre>
+  <input type="radio" name="Selection" value="Has no selection" checked> Without selection  <input type="radio" name="Selection" value="Has selection"> With selection 
+  </pre>
+</form>
 
 <form>
   <pre>
@@ -36,7 +44,7 @@ A project dedicated to the course Data and Knowledge.
   </pre>
 </form>
 
-<button type="button" onclick="alert('Hello World!')">Search Studies</button>
+<button type="button" onclick="alert('Queried studies')">Search Studies</button>
 
 </body>
 </html>
