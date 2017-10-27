@@ -19,14 +19,14 @@ A project dedicated to the course Data and Knowledge.
 <a href="https://www.w3schools.com">This is a link</a>
 
 <form>
-  <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
-  <input type="checkbox" name="vehicle2" value="Car"> I have a car 
-</form>
-
-<form>
   <input type="radio" name="gender" value="male" checked> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
   <input type="radio" name="gender" value="other"> Other
+</form>
+
+<form>
+  <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
+  <input type="checkbox" name="vehicle2" value="Car"> I have a car 
 </form>
 
 <button type="button" onclick="alert('Hello World!')">Click Me!</button>
