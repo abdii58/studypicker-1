@@ -4,14 +4,7 @@
 <h1>Having trouble with picking a study?</h1>
 <p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! <br> This site will help you find your study, based on your preferences. You can filter by location (by city or province), field of study and whether the study is with a selection or not.<br> Go try it out! </p>
 
-<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
-
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="https://www.w3schools.com">Link</a>
 
 <h3>Please fill out the form </h3>
 
