@@ -17,15 +17,15 @@ A project dedicated to the course Data and Knowledge.
 <p>This is another paragraph.</p>
 
 <a href="https://www.w3schools.com">This is a link</a>
-<pre>
-  <form>
-    <input type="radio" name="gender" value="male" checked>    <input type="radio" name="gender" value="female">  <input type="radio" name="gender" value="other"> Other
-  </form>
-</pre>
 
 <form>
-  <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
-  <input type="checkbox" name="vehicle2" value="Car"> I have a car 
+    <input type="radio" name="gender" value="male" checked>    <input type="radio" name="gender" value="female">  <input type="radio" name="gender" value="other"> Other
+  </form>
+
+<form>
+  <input type="radio" name="gender" value="male" checked> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Other
 </form>
 
 <button type="button" onclick="alert('Hello World!')">Click Me!</button>
