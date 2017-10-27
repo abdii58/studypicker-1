@@ -30,15 +30,15 @@ A project dedicated to the course Data and Knowledge.
 <input type="radio" name="field of study" value="IT" > IT         <input type="radio" name="field of study" value="Law" > Law
 <input type="radio" name="field of study" value="Social" > Social     <input type="radio" name="field of study" value="Theology" > Theology
 <strong> Province </strong>
-<input type="checkbox" name="Province1" value="North Holland"> North Holland   <input type="checkbox" name="Province2" value="South Holland"> South Holland    <input type="checkbox" name="Province3" value="Groningen"> Groningen
+<input type="checkbox" name="Province1" value="North Holland"> North Holland   <input type="checkbox" name="Province2" value="South Holland"> South Holland     <input type="checkbox" name="Province3" value="Groningen"> Groningen
 <input type="checkbox" name="Province4" value="Friesland"> Friesland       <input type="checkbox" name="Province5" value="Drenthe"> Drenthe           <input type="checkbox" name="Province6" value="Overijsel"> Overijsel
 <input type="checkbox" name="Province7" value="Flevoland"> Flevoland       <input type="checkbox" name="Province8" value="Gelderland"> Gelderland        <input type="checkbox" name="Province9" value="Utrecht"> Utrecht
 <input type="checkbox" name="Province10" value="Zeeland"> Zeeland         <input type="checkbox" name="Province11" value="North Brabant"> North Brabant     <input type="checkbox" name="Province12" value="Limburg"> Limburg
 <strong> City </strong>
-<input type="checkbox" name="City1" value="Amsterdam"> Amsterdam    <input type="checkbox" name="City2" value="Delft"> Delft    <input type="checkbox" name="City3" value="Eindhoven"> Eindhoven
+<input type="checkbox" name="City1" value="Amsterdam"> Amsterdam      <input type="checkbox" name="City2" value="Delft"> Delft    <input type="checkbox" name="City3" value="Eindhoven"> Eindhoven
 <input type="checkbox" name="City4" value="Rotterdam"> Rotterdam       <input type="checkbox" name="City5" value="Groningen"> Groningen         <input type="checkbox" name="City6" value="The Hague"> The Hague
-<input type="checkbox" name="City7" value="Leiden"> Leiden       <input type="checkbox" name="City8" value="Maastricht"> Maastricht         <input type="checkbox" name="City9" value="Tilburg"> Tilburg
-<input type="checkbox" name="City10" value="Twente"> Twente         <input type="checkbox" name="City11" value="Utrecht"> Utrecht         <input type="checkbox" name="City" value="Wageningen"> Wageningen
+<input type="checkbox" name="City7" value="Leiden"> Leiden         <input type="checkbox" name="City8" value="Maastricht"> Maastricht          <input type="checkbox" name="City9" value="Tilburg"> Tilburg
+<input type="checkbox" name="City10" value="Twente"> Twente         <input type="checkbox" name="City11" value="Utrecht"> Utrecht           <input type="checkbox" name="City" value="Wageningen"> Wageningen
 
   </pre>
 </form>
