@@ -6,8 +6,8 @@ A project dedicated to the course Data and Knowledge.
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Having trouble with picking a study?</h1>
+<p>Search no further! Studypicker is the right tool for you! Just tick in some boxes and we will show you what you need! </p>
 
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
@@ -22,17 +22,20 @@ A project dedicated to the course Data and Knowledge.
 
 <form>
   <pre>
+<strong> Selection </strong>
 <input type="radio" name="Selection" value="Has no selection" checked> Without selection  <input type="radio" name="Selection" value="Has selection"> With selection 
-
+<strong> Field of study </strong>
 <input type="radio" name="field of study" value="Technical" checked> Technical  <input type="radio" name="field of study" value="Medicine"> Medicine
 <input type="radio" name="field of study" value="Business"> Business   <input type="radio" name="field of study" value="Communication" > Communication 
 <input type="radio" name="field of study" value="IT" > IT         <input type="radio" name="field of study" value="Law" > Law
 <input type="radio" name="field of study" value="Social" > Social     <input type="radio" name="field of study" value="Theology" > Theology
-
+<strong> Location </strong>
+Province
 <input type="checkbox" name="Province1" value="North Holland"> North Holland   <input type="checkbox" name="Province2" value="South Holland"> South Holland     <input type="checkbox" name="Province3" value="Groningen"> Groningen
 <input type="checkbox" name="Province4" value="Friesland"> Friesland       <input type="checkbox" name="Province5" value="Drenthe"> Drenthe           <input type="checkbox" name="Province6" value="Overijsel"> Overijsel
 <input type="checkbox" name="Province7" value="Flevoland"> Flevoland       <input type="checkbox" name="Province8" value="Gelderland"> Gelderland        <input type="checkbox" name="Province9" value="Utrecht"> Utrecht
 <input type="checkbox" name="Province10" value="Zeeland"> Zeeland         <input type="checkbox" name="Province11" value="North Brabant"> North Brabant     <input type="checkbox" name="Province12" value="Limburg"> Limburg
+City
   </pre>
 </form>
 
