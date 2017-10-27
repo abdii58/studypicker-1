@@ -25,7 +25,7 @@ A project dedicated to the course Data and Knowledge.
 <input type="radio" name="Selection" value="Has no selection" checked> Without selection  <input type="radio" name="Selection" value="Has selection"> With selection 
 
 <input type="radio" name="field of study" value="Technical" checked> Technical  <input type="radio" name="field of study" value="Medicine"> Medicine
-<input type="radio" name="field of study" value="Business"> Business   <input type="radio" name="field of study" value="Communication" checked> Communication 
+<input type="radio" name="field of study" value="Business"> Business   <input type="radio" name="field of study" value="Communication" > Communication 
 <input type="radio" name="field of study" value="IT" > IT         <input type="radio" name="field of study" value="Law" > Law
 <input type="radio" name="field of study" value="Social" > Social     <input type="radio" name="field of study" value="Theology" > Theology
 
