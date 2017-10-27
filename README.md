@@ -30,9 +30,9 @@ A project dedicated to the course Data and Knowledge.
 <form>
   <pre>
  <input type="checkbox" name="Province1" value="North Holland"> North Holland    <input type="checkbox" name="Province2" value="South Holland"> South Holland    <input type="checkbox" name="Province3" value="Groningen"> Groningen
- <input type="checkbox" name="Province4" value="Friesland"> Friesland      <input type="checkbox" name="Province5" value="Drenthe"> Drenthe         <input type="checkbox" name="Province6" value="Overijsel"> Overijsel
- <input type="checkbox" name="Province7" value="Flevoland"> Flevoland      <input type="checkbox" name="Province8" value="Gelderland"> Gelderland        <input type="checkbox" name="Province9" value="Utrecht"> Utrecht
- <input type="checkbox" name="Province10" value="Zeeland"> Zeeland       <input type="checkbox" name="Province11" value="North Brabant"> North Brabant       <input type="checkbox" name="Province12" value="Limburg"> Limburg
+ <input type="checkbox" name="Province4" value="Friesland"> Friesland       <input type="checkbox" name="Province5" value="Drenthe"> Drenthe           <input type="checkbox" name="Province6" value="Overijsel"> Overijsel
+ <input type="checkbox" name="Province7" value="Flevoland"> Flevoland       <input type="checkbox" name="Province8" value="Gelderland"> Gelderland         <input type="checkbox" name="Province9" value="Utrecht"> Utrecht
+ <input type="checkbox" name="Province10" value="Zeeland"> Zeeland         <input type="checkbox" name="Province11" value="North Brabant"> North Brabant       <input type="checkbox" name="Province12" value="Limburg"> Limburg
   </pre>
 </form>
 
